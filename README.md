@@ -1,2 +1,0 @@
-# SistemasConcurrentesDistribuidos
-[UGR]
